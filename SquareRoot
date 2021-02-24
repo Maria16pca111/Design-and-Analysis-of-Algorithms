@@ -1,0 +1,15 @@
+//Finding the Square root of a number
+ m = which square root number you want to found
+g1 = first guess
+g2 = second guess
+   = (g1 +(m/g1))/2
+apply the same if you did not close to reach the no 
+May be it was greater than or less than
+   = (g2 + (m/g2))/2
+   and approximate square root will be solved by
+   if greater than we decrement by 1 
+   if less than we increment by 0.1 
+   if you have greater by accessing 0.1 reduce now as 0.01
+   
+   Note:
+   Here, I noted for my knowledge for recalling whernever i need. 
